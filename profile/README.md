@@ -55,6 +55,9 @@ If you are interested in working together, contributing ideas, or exploring a pr
 
 - GitHub: [Atonixcorp](https://github.com/atonixcorp)
 - Website: [atonixcorp.com](https://www.atonixcorp.com)
+- Discord: [Join our Discord](https://discord.gg/EGqJ778a55)
+- Slack: [Join our Slack](https://atonixcorp.slack.com/archives/C0C6G060JLV)
+- LinkedIn: [Atonixcorp](https://www.linkedin.com/company/atonixcorp)
 - Contact: hello@atonixcorp.com
 - License: [MIT](LICENSE)
 
@@ -70,6 +73,9 @@ If you are interested in working together, contributing ideas, or exploring a pr
 <p align="center">
   <a href="https://github.com/atonixcorp"><img src="https://img.shields.io/badge/GitHub-Atonixcorp-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.atonixcorp.com"><img src="https://img.shields.io/badge/Website-atonixcorp.com-8B5CF6?style=for-the-badge" alt="Website" /></a>
+  <a href="https://discord.gg/EGqJ778a55"><img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord" alt="Discord" /></a>
+  <a href="https://atonixcorp.slack.com/archives/C0C6G060JLV"><img src="https://img.shields.io/badge/Slack-Join%20Us-4A154B?style=for-the-badge&logo=slack" alt="Slack" /></a>
+  <a href="https://www.linkedin.com/company/atonixcorp"><img src="https://img.shields.io/badge/LinkedIn-Atonixcorp-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:info@atonixcorp.com"><img src="https://img.shields.io/badge/Email-hello%40atonixcorp.com-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
