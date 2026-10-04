@@ -2,7 +2,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8B5CF6&width=650&lines=Atonixcorp;Designing+smart+digital+systems;Building+products+that+feel+human" alt="Atonixcorp" />
 
-  <h1>🚀 Atonixcorp</h1>
+  <h1> Atonixcorp</h1>
 
   <p>
     <img src="https://img.shields.io/badge/Organization-Atonixcorp-8B5CF6?style=for-the-badge&logo=github" alt="Atonixcorp" />
@@ -16,13 +16,13 @@
 
 </div>
 
-## 🙋‍♀️ Who we are
+##  Who we are
 
 Atonixcorp is a technology organization focused on building modern digital products, systems, and experiences that are useful, reliable, and beautifully executed.
 
 We combine product thinking, technical expertise, and practical design to bring ideas to life in ways that are scalable, efficient, and people-centered.
 
-## 🌈 What we build
+##  What we build
 
 - Digital products and user-facing platforms
 - Scalable web and application experiences
@@ -30,7 +30,7 @@ We combine product thinking, technical expertise, and practical design to bring 
 - Smart systems that simplify complex operations
 - Technology experiences designed for real-world use
 
-## 🧠 Our approach
+##  Our approach
 
 We believe great technology should be:
 
@@ -40,7 +40,7 @@ We believe great technology should be:
 - Designed around real user needs
 - Created to create meaningful impact
 
-## 🤝 How the community can get involved
+##  How the community can get involved
 
 We welcome collaboration with:
 
@@ -51,14 +51,14 @@ We welcome collaboration with:
 
 If you are interested in working together, contributing ideas, or exploring a project, we’d love to hear from you.
 
-## 📚 Useful resources
+##  Useful resources
 
 - GitHub: [Atonixcorp](https://github.com/atonixcorp)
 - Website: [atonixcorp.com](https://www.atonixcorp.com)
 - Contact: hello@atonixcorp.com
 - License: [MIT](LICENSE)
 
-## 🍿 Fun facts
+##  Fun facts
 
 - We care more about clean systems than noisy hype.
 - We build with clarity, not complexity.
@@ -73,7 +73,7 @@ If you are interested in working together, contributing ideas, or exploring a pr
   <a href="mailto:hello@atonixcorp.com"><img src="https://img.shields.io/badge/Email-hello%40atonixcorp.com-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
