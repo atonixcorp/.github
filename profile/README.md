@@ -70,7 +70,7 @@ If you are interested in working together, contributing ideas, or exploring a pr
 <p align="center">
   <a href="https://github.com/atonixcorp"><img src="https://img.shields.io/badge/GitHub-Atonixcorp-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.atonixcorp.com"><img src="https://img.shields.io/badge/Website-atonixcorp.com-8B5CF6?style=for-the-badge" alt="Website" /></a>
-  <a href="mailto:hello@atonixcorp.com"><img src="https://img.shields.io/badge/Email-hello%40atonixcorp.com-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="mailto:info@atonixcorp.com"><img src="https://img.shields.io/badge/Email-hello%40atonixcorp.com-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
 ## License
