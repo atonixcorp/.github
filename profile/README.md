@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8B5CF6&width=650&lines=Atonixcorp;Designing+smart+digital+systems;Building+products+that+feel+human" alt="Atonixcorp" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8B5CF6&width=700&lines=Atonixcorp;Cloud+%26+Networking;Security+%26+DevSecOps" alt="Atonixcorp: Cloud, Networking, Security, and DevSecOps" />
 
   <h1> Atonixcorp</h1>
 
